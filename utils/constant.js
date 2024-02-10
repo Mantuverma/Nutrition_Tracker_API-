@@ -1,1 +1,1 @@
-export const DB_NAME = "Nutrition Tracker API";
+export const DB_NAME = "Nutrition_Tracker_API";
